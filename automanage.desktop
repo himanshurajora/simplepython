@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=automanager
+Exec=python3 /home/himanshu/Downloads/automanage.py
+Comment=Manages the downloads
+Terminal=true
+Icon=/home/himanshu/Pictures/master.png
+Type=Application
+Name[en_US]=automanage.desktop
